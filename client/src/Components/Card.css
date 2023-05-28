@@ -1,0 +1,53 @@
+.employee__card{
+    line-height: 3rem;
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0, .2);
+    margin: 1rem auto 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    border-radius: 10px;
+    align-items: center;
+    padding: .5rem 1.5rem .5rem 1.5rem;
+    width: 70%;
+    background-color: rgb(227, 222, 222);    
+}
+
+.employee__card:hover{
+    background-color: rgb(240, 207, 164);
+}
+
+.employee__card img {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    
+}
+
+.employee__card h4 {
+    margin-left: -8rem;
+       
+}
+
+.male {
+    border: 3px solid blue;
+}
+
+.female {
+    border: 3px solid red;
+}
+
+.person {
+    text-decoration: none;
+    color: #000000;
+}
+
+.person:hover {
+    text-decoration: underline;
+}
+
+.action {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}

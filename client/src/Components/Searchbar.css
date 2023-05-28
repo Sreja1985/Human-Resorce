@@ -1,0 +1,9 @@
+.searchbar{
+    width: 70%;
+    align-items: center;
+    margin: 1rem auto 0 auto; 
+}
+
+.searchbar input {
+    line-height: 2.5rem;
+}

@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.App {
+  text-align: center;
+}
+
+.container {
+  margin: 2rem;
+}
+
+.newPerson {
+  margin-right: -80rem;
+  margin-top: 3rem;
+}
+
+.formEmployee {
+  background-color: rgb(196, 190, 190);
+  border-radius: 10px;
+  width: 40%;
+  padding: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.person__data {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 5rem 25rem 5rem 25rem;
+  text-align: left;
+  font-size: 1.2rem;
+  border-radius: 15px;
+  background-color: rgb(217, 243, 237);
+  
+}
+
+.person__bio,
+.person__status {
+  border-radius: 15px;
+  padding: 2.5rem;
+  height: 450px;
+  width: 300px;
+}
+
+.person__bio img {
+  margin-bottom: 0.5rem;  
+  width: 150px;
+  height: auto;
+}
+
+.person__status p{
+  line-height: 2.5rem;
+}

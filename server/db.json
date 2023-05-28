@@ -1,0 +1,69 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "firstName": "Mike",
+      "lastName": "Nolan",
+      "gender": "male",
+      "dob": "1999-04-17",
+      "address": "Lexington Av. 9",
+      "city": "New York",
+      "email": "mnolan@gmail.com",
+      "department": "IT Support",
+      "phone": "021466133",
+      "image": "https://img.a.transfermarkt.technology/portrait/big/3950-1482228569.jpg?lm=1"
+    },
+    {
+      "firstName": "Srećko",
+      "lastName": "Ljubić",
+      "gender": "male",
+      "dob": "1985-02-07",
+      "address": "Ostravska 2",
+      "city": "Split",
+      "email": "sreckoljubic85@gmail.com",
+      "phone": "0955921438",
+      "department": "IT Support",
+      "image": "https://bkstorm.hr/wp-content/uploads/2021/03/SreckoLjubic-1-233x300.jpg",
+      "id": 2
+    },
+    {
+      "firstName": "Jadranka",
+      "lastName": "Kosor",
+      "gender": "female",
+      "dob": "1965-10-15",
+      "address": "J. J. Štrosmajera 27",
+      "city": "Zagreb",
+      "email": "jkosor@hgov.hr",
+      "phone": "017869815",
+      "department": "Humane Resorce",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Jadranka_Kosor_26052011_crop.jpg",
+      "id": 3
+    },
+    {
+      "firstName": "Diane",
+      "lastName": "Kruger",
+      "gender": "female",
+      "dob": "1974-08-15",
+      "address": "Hoolywood blv 457",
+      "city": "Holywood",
+      "email": "dkruger@hotmail.com",
+      "phone": "9675298483589291",
+      "department": "Lawyer",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3MzY0Nzk2Ml5BMl5BanBnXkFtZTcwODQ0MTMyMw@@._V1_.jpg",
+      "id": 4
+    },
+    {
+      "firstName": "James",
+      "lastName": "Cameron",
+      "gender": "male",
+      "dob": "1953-07-15",
+      "address": "Silk road ave. 947",
+      "city": "Miami",
+      "email": "cameron.james@gmail.com",
+      "phone": "123456789",
+      "department": "Accountant",
+      "image": "https://cdn.britannica.com/84/160284-050-695B1DE3/James-Cameron-2012.jpg",
+      "id": 5
+    }
+  ]
+}
